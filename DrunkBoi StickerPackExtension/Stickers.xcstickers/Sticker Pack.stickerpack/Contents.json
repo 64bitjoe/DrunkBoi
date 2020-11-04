@@ -1,9 +1,35 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
-    "grid-size" : "regular"
-  }
+    "grid-size" : "large"
+  },
+  "stickers" : [
+    {
+      "filename" : "Drunk Cowby.sticker"
+    },
+    {
+      "filename" : "Cowboy Eeek.sticker"
+    },
+    {
+      "filename" : "Cowboy Wink.sticker"
+    },
+    {
+      "filename" : "Cowboy Zip.sticker"
+    },
+    {
+      "filename" : "Silly Cowboy.sticker"
+    },
+    {
+      "filename" : "Smug Cowboy.sticker"
+    },
+    {
+      "filename" : "Thinking Cowboy.sticker"
+    },
+    {
+      "filename" : "LOL Cowboy.sticker"
+    }
+  ]
 }
